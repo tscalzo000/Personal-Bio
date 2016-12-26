@@ -1,0 +1,37 @@
+/* YOUR STYLING HERE */
+#buttonOpen {
+  background-color: limegreen;
+  border: solid black 2px;
+  margin: 5px;
+  color: black;
+  padding: 6px 9px;
+}
+
+#buttonClose {
+  background-color: black;
+  border: solid black 2px;
+  margin: 5px;
+  color: white;
+  font-style: normal;
+  padding: 6px 9px;
+}
+
+#app {
+  font-family: monospace;
+  font-size: 20px;
+}
+
+h1 {
+  font-family: "Comic Sans MS";
+  color: #68D8E1;
+}
+
+body {
+  background-color: #CCEEF0;
+}
+
+#question {
+  margin: 20px;
+  padding: 10px;
+  border-bottom: 2px solid gray;
+}
