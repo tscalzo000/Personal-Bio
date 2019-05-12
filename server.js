@@ -1,7 +1,7 @@
 let express = require('express')
 let questions = require('./src/constants/data')
 let server = express()
-let port = 3000
+let port = 8080
 
 server.use((request, response, next) => {
   response.header("Access-Control-Allow-Origin", "*")

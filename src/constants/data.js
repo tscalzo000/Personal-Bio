@@ -2,17 +2,17 @@ const data = [
   {
     id: 1,
     question: 'Who is Tori Scalzo?',
-    answer: "Hello, I'm Tori Scalzo. I am a junior full-stack developer specializing in Ruby, Javascript, and HTML/CSS."
+    answer: "I am software engineer specializing in PHP, Ruby, Javascript (specifically React), and Python."
   },
   {
     id: 2,
     question: 'What experience does Tori have?',
-    answer: "I am currently working on a 10-week coding intensive bootcamp in Boston called Launch Academy. Launch Academy teaches its cohorts full-stack coding including Ruby, Javascript, HTML/CSS and SQL; and their frameworks including Rails, JQuery, React, Sinatra, Capybara, and PostgreSQL."
+    answer: "I am currently a senior engineer at Wayfair, LLC on the Finance Integrations and Initiatives Team. I have been with Wayfair for the past two years. Prior to that, I completed a 10-week coding intensive bootcamp in Boston called Launch Academy. Launch Academy teaches its cohorts full-stack coding including Ruby, Javascript, HTML/CSS and SQL; and their frameworks including Rails, JQuery, React, Sinatra, Capybara, and PostgreSQL."
   },
   {
     id: 3,
     question: 'What makes Tori different from other developers?',
-    answer: "I have a passion for coding that shows through my personal projects. I always strive to do the best possible job and showcase my best work. I focus on every detail, but without losing focus of the overall picture."
+    answer: "I have a passion for coding that shows through my personal projects. I always gather as much context as possible on a project as possible, the business value and reasoning behind the code matter as much as the code itself. I focus on the details but without losing sight of the bigger picture."
   },
   {
     id: 4,

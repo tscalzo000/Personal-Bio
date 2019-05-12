@@ -1,11 +1,11 @@
 import React from 'react';
-import QuestionList from './QuestionList'
+import QuestionContainer from './QuestionContainer';
 
 const App = props => {
   return(
     <div className='small text-center'>
       <h1>Tori Scalzo</h1>
-      <QuestionList data={props.data}/>
+      <QuestionContainer />
     </div>
   )
 };
